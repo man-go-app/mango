@@ -1,0 +1,19 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "dependencies": {
+    "expo": "^25.0.0",
+    "firebase": "^4.6.0",
+    "react": "^16.2.0",
+    "react-native": "^0.50.4",
+    "react-native-elements": "^0.18.5",
+    "react-native-firebase": "^3.1.1",
+    "react-native-image-picker": "^0.26.7",
+    "react-native-maps": "^0.18.3",
+    "react-native-segmented-control-tab": "^3.2.2",
+    "react-native-sliding-up-panel": "^1.1.12",
+    "react-navigation": "^1.0.0-beta.21",
+    "rn-sliding-up-panel": "^1.1.7"
+  },
+  "devDependencies": {}
+}

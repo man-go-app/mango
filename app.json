@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Mango (beta)",
+    "description": "Find different services at your doorstep!",
+    "slug": "mangoreact",
+    "sdkVersion": "23.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "bundleIdentifier": "net.ddns.edvilme",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "net.ddns.edvilme",
+    }
+  }
+}
